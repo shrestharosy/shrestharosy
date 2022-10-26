@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Let's connect on [LinkedIn](https://www.linkedin.com/in/rosyshrestha/) 
+
+Check out some of my articles at [dev.to/rosyshrestha](https://dev.to/rosyshrestha)
+
 <!--
 **shrestharosy/shrestharosy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

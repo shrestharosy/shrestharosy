@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Let's connect on LinkedIn [Rosy Shrestha] (https://www.linkedin.com/in/rosyshrestha/) 
+Let's connect on LinkedIn [Rosy Shrestha](https://www.linkedin.com/in/rosyshrestha/) 
 
 Check out some of my articles at [dev.to/rosyshrestha](https://dev.to/rosyshrestha)
 

@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am Rosy Shrestha, a software engineer originally from Nepal🇳🇵.
+
 Let's connect on LinkedIn [Rosy Shrestha](https://www.linkedin.com/in/rosyshrestha/) 
 
 Check out some of my articles at [dev.to/rosyshrestha](https://dev.to/rosyshrestha)

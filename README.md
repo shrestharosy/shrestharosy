@@ -4,6 +4,8 @@ Let's connect on LinkedIn [Rosy Shrestha](https://www.linkedin.com/in/rosyshrest
 
 Check out some of my articles at [dev.to/rosyshrestha](https://dev.to/rosyshrestha)
 
+![github stats](https://github-readme-stats.vercel.app/api?username=shrestharosy)
+
 <!--
 **shrestharosy/shrestharosy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

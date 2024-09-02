@@ -16,10 +16,20 @@ Check out some of my articles at [dev.to/rosyshrestha](https://dev.to/rosyshrest
                     alt='TypeScript'
                     src='https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=ShieldStyle'
                 />
+                  <img
+                    className='badge'
+                    alt='C#'
+                    src='https://img.shields.io/badge/C%23-67207B?logoColor=white&style=ShieldStyle'
+                />
                 <img
                     className='badge'
                     alt='React'
                     src='https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=ShieldStyle'
+                />
+                                <img
+                    className='badge'
+                    alt='Angular'
+                    src='https://img.shields.io/badge/Angular-C5002B?logo=angular&logoColor=white&style=ShieldStyle'
                 />
                 <img
                     className='badge'
@@ -35,6 +45,11 @@ Check out some of my articles at [dev.to/rosyshrestha](https://dev.to/rosyshrest
                     className='badge'
                     alt='Nest'
                     src='https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white&style=ShieldStyle'
+                />
+                 <img
+                    className='badge'
+                    alt='.NET'
+                    src='https://img.shields.io/badge/.NET-512BD4?logo=.NET&logoColor=white&style=ShieldStyle'
                 />
                 <img
                     className='badge'
@@ -61,6 +76,7 @@ Check out some of my articles at [dev.to/rosyshrestha](https://dev.to/rosyshrest
                     alt='Tailwind'
                     src='https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=tailwindcss&logoColor=white&style=ShieldStyle'
                 />
+               
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=shrestharosy)
 
